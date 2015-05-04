@@ -2,7 +2,7 @@ Thesis2013
 ==========
 
 Some of the code for my thesis titled "Forecasting Expected Shortfall: An Extreme Value Approach".
-The thesis can be found here: http://www.lunduniversity.lu.se/o.o.i.s?id=24965&postid=3735573
+The thesis can be found here: https://lup.lub.lu.se/student-papers/search/publication/3735573
 
 Given time, or perhaps per request, I will write a more detailed readme, 
 with some instructions on how to use the code. In the meantime, I hope the code is readable enough
